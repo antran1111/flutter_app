@@ -1,6 +1,7 @@
 # flutter_app
 
-A new Flutter application.
+I will be using this repository to share my flutter code for building cross platform mobile applications.
+
 
 ## Getting Started
 
