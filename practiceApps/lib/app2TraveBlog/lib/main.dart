@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'screens/location_detail/location_detail.dart';
 import 'app.dart';
 void main() => runApp(App());
 
