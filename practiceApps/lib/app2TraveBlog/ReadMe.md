@@ -1,6 +1,8 @@
 # flutterstudy02
 
 A new Flutter application.
+This application will display popular travel sites in japan.
+![alt text](https://github.com/antran1111/flutter_app/blob/master/practiceApps/lib/app2TraveBlog/assets/images/photo2.png?raw=true)
 
 ## Getting Started
 
