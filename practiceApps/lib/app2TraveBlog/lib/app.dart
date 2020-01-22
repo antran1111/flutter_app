@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'location.dart';
+import 'screens/location_detail/location_detail.dart';
 import 'style.dart';
 
 //krisdonia powerbank review
